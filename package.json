@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "commonjs",
+    "url": "git+https://github.com/fSabel/hexlet-js.git"
+  },
+  "author": "Philipp Hexletovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fSabel/hexlet-js/issues",
+    "email": "sF@hexlet.com"
+  },
+    "homepage": "https://github.com/fSabel/hexlet-js#readme"
+}
