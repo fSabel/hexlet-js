@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "commonjs",
+    "type": "module",
     "url": "git+https://github.com/fSabel/hexlet-js.git"
   },
   "author": "Philipp Hexletovich",
@@ -16,5 +16,8 @@
     "url": "https://github.com/fSabel/hexlet-js/issues",
     "email": "sF@hexlet.com"
   },
-    "homepage": "https://github.com/fSabel/hexlet-js#readme"
+  "homepage": "https://github.com/fSabel/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
