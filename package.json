@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/fSabel/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prettier": "^3.2.5"
   }
 }
