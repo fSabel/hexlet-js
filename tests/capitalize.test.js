@@ -5,3 +5,5 @@ import { capitalize } from '../src/capitalize.js';
 assert.equal(capitalize(''), '');
 
 assert.equal(capitalize('hello'), 'Hello');
+
+assert.strictEqual(capitalize('hello'), 'hello');
